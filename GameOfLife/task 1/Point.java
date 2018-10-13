@@ -27,7 +27,7 @@ public class Point {
 	public void calculateNewState() {
 		int activeNei = activeNeighbor();
 		if(currentState==1){
-			if(activeNei == 4 || activeNei == 5 || activeNei == 6 || activeNei == 7 || activeNei == 8) {
+			if(activeNei == 2 || activeNei == 3) {
 				nextState = 1;
 			}
 			else {
