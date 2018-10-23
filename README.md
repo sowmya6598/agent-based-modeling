@@ -3,6 +3,7 @@
 
 - Cellular Automata -- Conway's Game of Life
 - Cellular Automata -- Sound Wave Simulation
+- Agents on Cellular Automata
 
 
 
